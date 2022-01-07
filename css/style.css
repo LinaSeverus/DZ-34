@@ -1,0 +1,9 @@
+
+ul{
+    list-style-image: url(https://img.icons8.com/office/16/000000/ok.png);
+}
+
+li{
+ font-weight: 600;
+ line-height: 30px;
+}
